@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5",
+    "playwright": "^1.64.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "name": "adpul",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.28.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
